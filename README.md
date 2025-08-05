@@ -51,7 +51,7 @@ bash eval.sh
 ```
 
 ## Data Preparation
-We utilized [AudioSet-2M](https://research.google.com/audioset/) for pre-training. At this stage, only the `tsv` file is required. Refer to [train.tsv for AudioSet-20K](data_manifest/manifest_as20k/train.tsv) to prepare the corresponding `train.tsv` file required for AudioSet-2M.
+We utilized [AudioSet-2M](https://research.google.com/audioset/) for pre-training. At this stage, only the `tsv` file is required. Refer to [train.tsv for AudioSet-20K](./ASDA/data_manifest/manifest_AS20K/train.tsv) to prepare the corresponding `train.tsv` file required for AudioSet-2M.
 
 ## Pre-Training 
 ```bash
