@@ -1,5 +1,3 @@
-# ASDA
-
 # [INTERSPEECH 2025] ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning
 
 
@@ -11,7 +9,7 @@
 
 ## Results
 Performance comparison with existing methods across multiple audio tasks.   
-![Alt text](./src/performance.png)
+![Alt text](./ASDA/src/performance.png)
 
 ---
 ## Model Checkpoints
