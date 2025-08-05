@@ -16,7 +16,7 @@ Performance comparison with existing methods across multiple audio tasks.
 
 | Model Type               | Link                                                                                       |
 |--------------------------|--------------------------------------------------------------------------------------------|
-| **Pre-Trained**          | [Download]() |
+| **Pre-Trained**          | [Download](https://drive.google.com/file/d/1Ets3GZ0tq4J3fWcQRqT7ycwlfmZ4CQUX/view?usp=sharing) |
 | **AS2M Fine-Tuned**      | [Download]() |
 ---
 
