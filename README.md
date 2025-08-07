@@ -17,7 +17,7 @@ Performance comparison with existing methods across multiple audio tasks.
 | Model Type               | Link                                                                                       |
 |--------------------------|--------------------------------------------------------------------------------------------|
 | **Pre-Trained**          | [Download](https://drive.google.com/file/d/1Ets3GZ0tq4J3fWcQRqT7ycwlfmZ4CQUX/view?usp=sharing) |
-| **AS2M Fine-Tuned**      | [Download]() |
+| **AS2M Fine-Tuned**      | [Download](https://drive.google.com/file/d/1uTMPByUyhgG8uThi7eBgqrv6kltxquZh/view?usp=sharing) |
 ---
 
 ## Inference Mode
